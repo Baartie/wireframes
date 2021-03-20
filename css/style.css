@@ -1,3 +1,13 @@
 .mainblock {
     padding-top: 100px;
 }
+
+.block-2 {
+    padding-top: 60px
+}
+.block-2-person {
+    border: 0px solid black;
+}
+.progress {
+    margin: 20px;
+}
