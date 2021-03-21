@@ -1,1 +1,1 @@
-# Wireframes Template
+# Wireframe Template
